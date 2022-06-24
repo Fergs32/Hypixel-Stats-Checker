@@ -1,3 +1,7 @@
+# Project-Overview
+This project was made for fun and nothing else, I wanted to gain knowledge on Spectre Console [GitHub Pages](https://github.com/spectreconsole) 
+
+
 # Hypixel-Main-Stats
 ![d6841d5d0c3edecf970f7041e8ca16b5](https://user-images.githubusercontent.com/93891128/175719968-4339c5c9-fd2a-4c76-b7e6-6a08af295e67.png)
 
