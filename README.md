@@ -1,10 +1,16 @@
 # Project-Overview
-This project was made for fun and nothing else, I wanted to gain knowledge on Spectre Console [GitHub Pages](https://github.com/spectreconsole) 
+This project was made for fun and nothing else, I wanted to gain knowledge on console UI's, code efficiency and code layout. The program is super basic and has nothing really to it, just a simple stats viewer in .net console that uses 3rd party API's.
+
+# Library's-Used
+[Spectre.Console](https://github.com/spectreconsole) Very nice UI features, easy to use but has some multiple threading difficulties.
+[Leaf.xNet](https://github.com/csharp-leaf) I've used this for years now, very noob friendly compared to other http librarys, has some dope other features.
+
+# How-To-Use
+Just enter the IGN you want to lookup, and the program will go through a 3rd party API and grab specific information about that player. Has a back to menu feature which allows easy navigation throughout the program. 
 
 
 # Hypixel-Main-Stats
 ![d6841d5d0c3edecf970f7041e8ca16b5](https://user-images.githubusercontent.com/93891128/175719968-4339c5c9-fd2a-4c76-b7e6-6a08af295e67.png)
-
 
 
 # Hypixel-Pit-Stats
