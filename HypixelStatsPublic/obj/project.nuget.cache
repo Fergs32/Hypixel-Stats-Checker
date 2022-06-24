@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEGND46lBwJeIPd6m9w2CKSoG87ZI7AJNxqJVlyGQrWermGziFs3Vps5V6kimKQEHVA7/PgMUiDhbUiq77AARg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\source\\repos\\HypixelStatsPublic\\HypixelStatsPublic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\leaf.xnet\\5.2.10\\leaf.xnet.5.2.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\bin\Debug\netcoreapp3.1\HypixelStatsPublic.exe
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\bin\Debug\netcoreapp3.1\HypixelStatsPublic.deps.json
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\bin\Debug\netcoreapp3.1\HypixelStatsPublic.runtimeconfig.json
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\bin\Debug\netcoreapp3.1\HypixelStatsPublic.runtimeconfig.dev.json
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\bin\Debug\netcoreapp3.1\HypixelStatsPublic.dll
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\bin\Debug\netcoreapp3.1\HypixelStatsPublic.pdb
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\bin\Debug\netcoreapp3.1\Leaf.xNet.dll
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\obj\Debug\netcoreapp3.1\HypixelStatsPublic.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\obj\Debug\netcoreapp3.1\HypixelStatsPublic.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\obj\Debug\netcoreapp3.1\HypixelStatsPublic.AssemblyInfo.cs
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\obj\Debug\netcoreapp3.1\HypixelStatsPublic.csproj.CopyComplete
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\obj\Debug\netcoreapp3.1\HypixelStatsPublic.dll
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\obj\Debug\netcoreapp3.1\HypixelStatsPublic.pdb
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\obj\Debug\netcoreapp3.1\HypixelStatsPublic.genruntimeconfig.cache
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\obj\Debug\netcoreapp3.1\HypixelStatsPublic.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\HypixelStatsPublic\HypixelStatsPublic\bin\Debug\netcoreapp3.1\Spectre.Console.dll

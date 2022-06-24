@@ -1,0 +1,113 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace HypixelStatsPublic.HypixelPit
+{
+    public class PitItems
+    {
+        public static string[] Perks = new string[]
+        {
+            "§9Vampire",
+            "§9Gladiator",
+            "§9Strength-Chaining",
+            "§9Assistant (to the) Streaker",                                                                 
+            "§9Dirty",
+            "§9Streaker",           
+            "§Bounty Hunter",          
+            "§9Co-op Cat",
+            "§9Spammer",           
+            "§9First Strike",
+            "§9Fishing Rod",                 
+            "§9Thick",
+            "§9Insurance",
+            "§9Kung Fu Knowledge",         
+            "§9Marathon",
+            "§9Olympus",
+            "§9Barbarian",
+            "§9Lucky Diamond",
+            "§9Golden Heads",
+            "§9Lava Bucket",
+            "§9Mineman",
+        };
+
+        public static string[] Killstreaks = new string[]
+        {
+            "§9Beastmode",
+            "§9Feast",
+            "§9Arquebusier",
+            "§9Khanate",
+            "§9Highlander",
+            "§9Rush",
+            "§9Apostle to RNGesus",
+            "§9R&R",
+            "§9Overdrive",
+            "§9Fight or Flight",
+            "§9Magnum Opus",
+            "§9Counter-Strike",
+            "§9Tough Skin",
+            "§9Super Streaker",
+            "§9Trickle Down",
+            "§9Aura of Protection",
+            "§9Monster",
+            "§9Second Gapple",
+            "§9Spongesteve",
+            "§9Gold Nano-Factory",
+            "§9Explicious",
+            "§9Hermit",
+        };
+
+        public static string[] boostUpgrades = new string[]
+        {
+           "§9XP Boost IV",
+           "§9Gold Boost VI",
+           "§9Melee Damage VI",
+           "§9Bow Damage VI",
+           "§9Damage Reduction VI",
+           "§9Build Battler VI",
+           "§9El Gato VI",
+           "§9Gold Boost V",
+           "§9XP Boost V",
+           "§9Damage Reduction V",
+           "§9Melee Damage V",
+           "§9Bow Damage V",
+           "§9Build Battler V",
+           "§9El Gato V",
+           "§9Gold Boost IV",
+           "§9XP Boost IV",
+           "§9Damage Reduction IV",
+           "§9Melee Damage IV",
+           "§9Bow Damage IV",
+           "§9Build Battler IV",
+           "§9El Gato IV",
+           "§9Gold Boost III",
+           "§9XP Boost III",
+           "§9Damage Reduction III",
+           "§9Melee Damage III",
+           "§9Bow Damage III",
+           "§9Build Battler III",
+           "§9El Gato III",
+           "§9Gold Boost II",
+           "§9XP Boost II",
+           "§9Damage Reduction II",
+           "§9Melee Damage II",
+           "§9Bow Damage II",
+           "§9Build Battler II",
+           "§9El Gato II",
+           "§9Gold Boost I",
+           "§9XP Boost I",
+           "§9Damage Reduction I",
+           "§9Melee Damage I",
+           "§9Bow Damage I",
+           "§9Build Battler I",
+           "§9El Gato I",
+           "§cBow Damage ",
+           "§cBuild Battler ",
+           "§cGold Boost ",
+           "§cXP Boost ",
+           "§cDamage Reduction ",
+           "§cMelee Damage ",
+           "§cEl Gato ",
+        };
+    }
+}
