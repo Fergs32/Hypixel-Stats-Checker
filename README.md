@@ -2,8 +2,8 @@
 This project was made for fun and nothing else, I wanted to gain knowledge on console UI's, code efficiency and code layout. The program is super basic and has nothing really to it, just a simple stats viewer in .net console that uses 3rd party API's.
 
 # Library's-Used
-*[Spectre.Console](https://github.com/spectreconsole) Very nice UI features, easy to use but has some multiple threading difficulties.
-*[Leaf.xNet](https://github.com/csharp-leaf) I've used this for years now, very noob friendly compared to other http librarys, has some dope other features.
+* [Spectre.Console](https://github.com/spectreconsole) Very nice UI features, easy to use but has some multiple threading difficulties.
+* [Leaf.xNet](https://github.com/csharp-leaf) I've used this for years now, very noob friendly compared to other http librarys, has some dope other features.
 
 # How-To-Use
 Just enter the IGN you want to lookup, and the program will go through a 3rd party API and grab specific information about that player. Has a back to menu feature which allows easy navigation throughout the program. 
